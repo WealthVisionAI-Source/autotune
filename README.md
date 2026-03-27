@@ -101,7 +101,7 @@ autotune will find the relevant section, propose a rewrite, score it against the
 
 **AGENTS.md sections:** Group chat — when to speak · Heartbeat — when to reach out · Shopping list · Memory — write it down · External vs internal actions
 
-**Pipeline handoff prompts (TOOLS.md):** Dan→Luke · Luke→Jon · Jon→Done · Robin observation · Handoff on failure
+**Pipeline handoff prompts (TOOLS.md):** Builder→Tester · Tester→Reviewer · Reviewer→Done · Learner observations · Handoff on failure
 
 ---
 
